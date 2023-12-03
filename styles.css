@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.div-body{
+    background: #24204A;
+}
+
+header{
+    margin-left: 115px;
+    display: inline-block;
+}
+
+.titulo-header{
+    margin-top: 37px;
+    display: inline-block;
+
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.9px;
+}
+
+.div-links{
+    display: inline-block;
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 20%;
+}
+
+.link-header{
+    margin-right: 60px;
+    text-decoration: none;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.6;
+}
+
+.button-header{
+    margin-left: 100px;
+    width: 153px;
+    height: 46px;
+    border-radius: 8px;
+    border: 1px solid #8E88C1;
+    background: #4B4864;
+
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.div-main{
+    margin-top: 101px;
+    margin-left: 115px;
+    display: inline-block;
+}
+
+.button-posotion{
+    margin-bottom: 38px;
+    width: 145px;
+    height: 41px;
+    border-radius: 8px;
+    background: #4B4864;
+    border: none;
+
+    color: #8E88C1;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 130%; /* 20.8px */
+    letter-spacing: 0.8px;
+    cursor: pointer;
+}
+
+.titulo-main{
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 1.8px;
+    width: 573px;
+}
+
+.p-main{
+    color:#8E88C1;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 130%; /* 20.8px */
+    letter-spacing: 0.8px;
+    width: 570px;
+    margin-top: 27px;
+    margin-bottom: 50px;
+}
+
+.button-sobre{
+    width: 200px;
+    height: 56px;border-radius: 8px;
+    background: #3F50E7;
+    box-shadow: 0px 6px 20px 0px rgba(0, 255, 224, 0.20);
+    border: 1px solid #30345A;
+
+
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 109px;
+    cursor: pointer;
+}
+
+.div-lampada{
+    display: inline-block;
+    margin-top: 46px;
+    margin-left: 20%;
+
+    /*position: absolute;*/
+
+}
+
+
+
+/*figure.fig-lampada img{
+    margin-top: 46px;
+    margin-left: 30px;
+    position: absolute;
+}
+
+.img-vector{
+    width: 470px;
+    height: 506px;
+}
+
+.img-lampada{
+    width: 375px;
+    height: 411px; 
+    border-radius: 8px;
+    background: #827EAC 50% / cover no-repeat;
+    box-shadow: 10px 20px 50px 0px rgba(0, 0, 0, 0.25);
+}*/
+
+
+
+
