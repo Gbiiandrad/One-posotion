@@ -115,32 +115,39 @@ header{
 .div-lampada{
     display: inline-block;
     margin-top: 46px;
-    margin-left: 20%;
-
-    /*position: absolute;*/
+    margin-left: 130px;
+    position: absolute;
 
 }
 
 
-
-/*figure.fig-lampada img{
+figure.fig-lampada img{
+    display: inline-block;
     margin-top: 46px;
-    margin-left: 30px;
+    margin-left: 130px;
     position: absolute;
+
 }
 
 .img-vector{
-    width: 470px;
-    height: 506px;
+    position: relative;
+    width: 390px;
+    height: 411px;
+    
 }
 
+
 .img-lampada{
-    width: 375px;
-    height: 411px; 
+    width: 318px;
+    height: 318px;
+    position: fixed;
+
     border-radius: 8px;
-    background: #827EAC 50% / cover no-repeat;
+    background: #827EAC;
     box-shadow: 10px 20px 50px 0px rgba(0, 0, 0, 0.25);
-}*/
+    top: 47px;
+    left: 35px;
+}
 
 
 
